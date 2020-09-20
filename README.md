@@ -13,5 +13,5 @@ _P.S. This file is written in Markdown format so if you want to create a new lin
 
 ## Members
 Srujan Deshpande - srujandeshpande
-Sharika Vallambatla - sharikavallambatla
+  Sharika Vallambatla - sharikavallambatla
 
